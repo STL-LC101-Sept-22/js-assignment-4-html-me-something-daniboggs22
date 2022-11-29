@@ -1,1 +1,67 @@
 /* Write your CSS here! */
+
+#sunflowerB{
+    border-style: dashed;
+    margin-block: 25px;
+    color:rgb(21, 169, 169);
+    font-size: larger;
+    text-align: center;
+    padding: 25px 30px;
+    font-weight: 100;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
+*{
+    background-color: beige;
+}
+
+body{
+    margin: 8px;
+    display: block;
+}
+.funParagraph{
+    color: green;
+}
+#mainHeading{
+    color: red;
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.blue-paragraph{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+
+}
+h4{
+   font-family: Arial, Helvetica, sans-serif;
+    color: rgb(105, 13, 98);
+} 
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(118, 90, 164);
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-block-end: 10px;
+   
+}
+.about-me{
+    color: rgb(255, 0, 217)
+}
+.Lola{
+    height: 350px;
+    padding: 50px;
+    border-radius: 75px;
+    
+}
+.hairBows{
+    height: 150px;
+    padding: 30px;
+    
+
+}
+.custom{
+    height: 150px;
+    padding: 30px;
+}
+
