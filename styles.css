@@ -49,14 +49,16 @@ p{
     color: rgb(255, 0, 217)
 }
 .Lola{
-    height: 350px;
+    width:100px;
+    height:100px;
+    object-fit: cover;
     padding: 50px;
     border-radius: 75px;
     
 }
 .hairBows{
-    height: 150px;
-    padding: 30px;
+    height: 100px;
+    padding: 20px;
     
 
 }
